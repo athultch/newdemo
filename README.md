@@ -1,2 +1,2 @@
-# newdemo
+# new-demo
 this project is to uderstand git and github 
